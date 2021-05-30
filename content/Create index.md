@@ -55,4 +55,12 @@ externalProducts:
     name: 'CodeQL'
     href: 'https://codeql.github.com/docs'
     external: true
+
+  codesl:
+    ID: codesl
+    name: 'CodeSl'
+    href: 'http://codesl.github.com/docs'
+    external: false
 ---
+
+
